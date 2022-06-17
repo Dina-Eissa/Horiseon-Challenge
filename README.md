@@ -28,7 +28,7 @@ THEN I find a concise, descriptive title
 ```
 The following image shows the web application's appearance and functionality:
 
-(./Assets/images/01-html-css-git-homework-demo.png)
+(./Assets/01-html-css-git-homework-demo.png)
 ```
 
 ## URL to deployed website
